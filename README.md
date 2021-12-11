@@ -6,4 +6,4 @@ Our group name and section: Group Number 13, Section 1
 
 Our group members: Yao Sun (ys3504), Lefan Mei(lm3657)
 
-A list containing the UNI for each member on our team: ['ys3504'. 'lm3657']
+A list containing the UNI for each member on our team: ['ys3504', 'lm3657']
